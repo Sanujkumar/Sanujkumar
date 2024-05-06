@@ -28,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanujkumar&show_icons=true&locale=en&layout=compact" alt="sanujkumar" /></p>
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanujkumar&show_icons=true&locale=en" alt="sanujkumar" /></p>
-![image](https://github.com/Sanujkumar/Sanujkumar/assets/130306315/88b1b915-e00b-4da2-babb-406b857fa561)
+
 
