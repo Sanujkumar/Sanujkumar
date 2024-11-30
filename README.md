@@ -3,11 +3,11 @@
 
 <img align="right" alt="coding" width ="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **nextjs and advanced backend concept**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanujkumar?tab=repositories](https://github.com/Sanujkumar?tab=repositories)
 
-- 💬 Ask me about **react.js // javascript**
+- 💬 Ask me about **react.js // javascript // type-script // Data-structure and algorithm **
 
 - 📫 How to reach me **https://www.linkedin.com/in/sanuj-kumar-a27362254/**
 
